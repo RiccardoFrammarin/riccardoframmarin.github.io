@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2c1334e-90aa-4858-a534-ce0b7da23a66" name="Changes" comment="New pages added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/Analogue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape.html" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portrait.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portrait.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reportage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reportage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StillLife.html" beforeDir="false" afterPath="$PROJECT_DIR$/StillLife.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +71,7 @@
       <workItem from="1688928900925" duration="1193000" />
       <workItem from="1688930120649" duration="542000" />
       <workItem from="1689695795419" duration="32000" />
-      <workItem from="1690026723168" duration="2062000" />
+      <workItem from="1690026723168" duration="4005000" />
     </task>
     <task id="LOCAL-00001" summary="sec">
       <created>1688806227191</created>
@@ -116,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688930463383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New pages added">
+      <created>1690029003439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690029003439</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
