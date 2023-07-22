@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="e2c1334e-90aa-4858-a534-ce0b7da23a66" name="Changes" comment="New pages added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analogue.html" beforeDir="false" afterPath="$PROJECT_DIR$/Analogue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landscape.html" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portrait.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portrait.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reportage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reportage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StillLife.html" beforeDir="false" afterPath="$PROJECT_DIR$/StillLife.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +77,9 @@
       <updated>1688804751613</updated>
       <workItem from="1688804756023" duration="10680000" />
       <workItem from="1688928900925" duration="1193000" />
-      <workItem from="1688930120649" duration="306000" />
+      <workItem from="1688930120649" duration="542000" />
+      <workItem from="1689695795419" duration="32000" />
+      <workItem from="1690026723168" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="sec">
       <created>1688806227191</created>
@@ -96,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688820194262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New pages added">
+      <created>1688930456555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688930456555</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New pages added">
+      <created>1688930463383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688930463383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
